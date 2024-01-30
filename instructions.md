@@ -1,0 +1,2 @@
+## Deploying Frontend
+Would like to get setup with vue-cli-plugin-s3-deploy but having some issues. For now, just run `yarn build` and copy the contents of `./dist/` into the bucket in the AWS console. Instructions followed for setting up the bucket: https://www.thisdot.co/blog/deploying-a-vue-static-front-end-to-aws 
